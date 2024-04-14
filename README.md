@@ -4,6 +4,7 @@
 -> The errors we disscuss are:
 
 - Gitbash push error
+- Gitbash Cloning error
 
 
 
@@ -30,3 +31,7 @@ Now you can push your code to github
   $ git push -u  origin <Your repository branch>
 ```
 ---
+
+## GitHub CLoning Error
+
+![App Screenshot](https://github.com/alisulman/Error_Zone/issues/1#issue-2242235981)
