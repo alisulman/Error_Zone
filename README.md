@@ -34,4 +34,12 @@ Now you can push your code to github
 
 ## GitHub CLoning Error
 
-![App Screenshot](https://github.com/alisulman/Error_Zone/issues/1#issue-2242235981)
+![App Screenshot]([https://github.com/alisulman/Error_Zone/issues/1#issue-2242235981](https://res.cloudinary.com/du9pbx3ro/image/upload/v1713111143/WhatsApp_Image_2024-04-14_at_21.01.22_y4qerh.jpg))
+
+---
+
+Resolve this issue by entered some commands.
+
+```bash
+  $ ssh-keygen -t ed25519 -C "your_email@example.com"
+```
