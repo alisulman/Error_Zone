@@ -47,7 +47,6 @@ Resolve this issue by entered some commands.
 
 ## GitBash npm packages errors
 
------
 
 Resolve this issue by entered some commands.
 
