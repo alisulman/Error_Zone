@@ -5,6 +5,7 @@
 
 - Gitbash push error
 - Gitbash Cloning error
+- GitBash npm packages errors
 
 
 
@@ -43,3 +44,15 @@ Resolve this issue by entered some commands.
 ```bash
   $ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
+
+## GitBash npm packages errors
+
+-----
+
+Resolve this issue by entered some commands.
+
+```bash
+  $ npm config set legacy-peer-deps true
+```
+now you can install packages
+
